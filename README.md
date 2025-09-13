@@ -1,3 +1,7 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00ADEF&center=true&vCenter=true&width=1000&lines=Đấu+Tông+Cường+Giả" />
+
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/duong.chi.viet.2025/?locale=vi_VN) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Viet3646) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Duongchiviet2004@gmail.com) 
