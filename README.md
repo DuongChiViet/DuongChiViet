@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00ADEF&center=true&vCenter=true&width=1000&lines=Đấu+Tông+Cường+Giả" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00ADEF&center=true&vCenter=true&width=1000&lines=Tại+hạ+Nguyên+Anh+Sơ+Kỳ" />
+
 
 
 
